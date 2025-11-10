@@ -140,7 +140,7 @@ st.markdown("""
         }
     </style>
     <div class="blue-bar">
-        <h1>📦 Sisenco Label Generator v1.3</h1>
+        <h1>Sisenco Label Generator</h1>
     </div>
 """, unsafe_allow_html=True)
 
@@ -239,4 +239,4 @@ else:
     st.info("Upload your file to begin.")
 
 st.divider()
-st.caption("Sisenco Label Generator V.1.3 © 2025 — Developed by Sisenco Digital")
+st.caption("Sisenco Label Generator V.1.2 © 2025 — Developed by Sisenco Digital")
